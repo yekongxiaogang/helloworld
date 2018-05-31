@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
 cout << "Hello World!" << endl;
-system("pause");
+cout << "add a line for test" << endl;
+//system("pause");
 return 0;
 }
