@@ -1,0 +1,4 @@
+language: cpp
+sudo: false
+before_install: yum -y install gcc
+script: g++ ceshi.cpp
